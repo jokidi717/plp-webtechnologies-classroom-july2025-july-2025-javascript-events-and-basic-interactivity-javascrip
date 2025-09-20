@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  transition: background 0.3s, color 0.3s;
+}
+
+.dark-mode {
+  background: #222;
+  color: white;
+}
+
+.error {
+  color: red;
+  font-size: 0.8em;
+  margin-left: 5px;
+}
